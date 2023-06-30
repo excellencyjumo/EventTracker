@@ -36,11 +36,11 @@ npm install package.json
 
 Create a `.env` file in the root directory and add the following variables:
 
-DATABASE_URL=mongodb://localhost:27017
+- DATABASE_URL=mongodb://localhost:27017
 
-DATABASE_NAME=eventtracker
+- DATABASE_NAME=eventtracker
 
-SECRET_KEY=your-secret-key
+- SECRET_KEY=your-secret-key
 
 
 
